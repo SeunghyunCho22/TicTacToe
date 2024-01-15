@@ -1,0 +1,21 @@
+.App{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+html,
+body{
+
+}
+
+h1{
+    font-size:1.5em;
+}
+
+
+table td{
+    width:20px;
+    height: 20px;
+    padding:3px;
+    border: 1px solid black;
+}
